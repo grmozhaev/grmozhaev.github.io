@@ -1,4 +1,4 @@
-# [Grigory Mozhaev Git and RegExp test project](https://github.com/grmozhaev/grmozhaev.github.io)
+# [Grigory Mozhaev Git and RegExp test project](https://grmozhaev.github.io)
 
 ### Version: 0.0.1
 
