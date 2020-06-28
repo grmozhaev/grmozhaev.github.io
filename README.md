@@ -1,6 +1,6 @@
 # [Grigory Mozhaev Git and RegExp test project](https://grmozhaev.github.io)
 
-### Version: 0.0.5
+### Version: 0.0.6
 
 ### Technologies used
 
